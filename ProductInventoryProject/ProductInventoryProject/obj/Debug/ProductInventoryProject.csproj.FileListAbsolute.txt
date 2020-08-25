@@ -1,0 +1,10 @@
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.exe.config
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.pdb
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.csprojAssemblyReference.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.Form1.resources
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.Properties.Resources.resources
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.csproj.GenerateResource.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.exe
+C:\Users\andre\Documents\Visual Studio 2017\Projects\PortfolioPrograms\C#\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.pdb
